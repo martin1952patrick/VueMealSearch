@@ -11,3 +11,6 @@ module.exports = {
     require('@tailwindcss/forms'),
   ],
 }
+
+
+StylePropertyMap
