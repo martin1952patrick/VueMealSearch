@@ -22,5 +22,3 @@ onMounted(async () => {
 });
 </script>
 
-home
-then
