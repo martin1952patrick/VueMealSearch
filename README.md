@@ -1,5 +1,6 @@
 # Receipt Search app built with Vue.js
-This repository is created alongside the following [YouTube Tutorial](https://youtu.be/cfiN8lCA3RM)
+[Have used public apis, you can equally practice with them](https://www.themealdb.com/api.php)
+
 
 ## Demo
 [https://vue-meal-search.vercel.app/](https://vue-meal-search.vercel.app/)
@@ -15,4 +16,3 @@ This repository is created alongside the following [YouTube Tutorial](https://yo
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
-[Have used public apis, you can equally practice with them](https://www.themealdb.com/api.php)
