@@ -2,7 +2,7 @@
 This repository is created alongside the following [YouTube Tutorial](https://youtu.be/cfiN8lCA3RM)
 
 ## Demo
-[https://tc-search-meals.netlify.app](https://tc-search-meals.netlify.app/)
+[https://tc-search-meals.netlify.app](https://vue-meal-search.vercel.app/)
 
 ## Installation
 1. Clone the repository
@@ -14,3 +14,5 @@ This repository is created alongside the following [YouTube Tutorial](https://yo
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+[Have used public apis, you can equally practice with them](https://www.themealdb.com/api.php)
